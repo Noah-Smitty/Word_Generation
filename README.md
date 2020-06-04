@@ -11,7 +11,9 @@ Credit to [Gustavo Zomer](https://towardsdatascience.com/generating-startup-name
 ### Example usage:
 
 _import **mc_gen**_ 
+
 _chain = mc_gen.**build_markov_chain**(mc_gen.**load_words**("words_alpha"),4)_
+
 _mc_gen.**generate**(chain)_
 
 Use higher values in the **build_markov_chain** function for more realistic results.

@@ -1,6 +1,7 @@
 # Word_Generation
 
-A word generation tool using Markov Chains, built with Python
+A word generation tool using Markov Chains, built with Python.
+
 Credit to [Gustavo Zomer](https://towardsdatascience.com/generating-startup-names-with-markov-chains-2a33030a4ac0)
 
 
